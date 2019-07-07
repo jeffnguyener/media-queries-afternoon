@@ -28,7 +28,7 @@ ul {
 section {
   color: ivory;
   width: 100%;
-  height: 2000px;
+  height: 200vh;
 }
 
 .Background {
@@ -41,8 +41,8 @@ section {
 
 .title {
   color: #FED136;
-  font-family: 'Kaushan Script', sans-serif;
-  font-size: 1.75em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
   margin: 0 16px 0 0;
   padding: 5px 0;
   font-family: cursive;
@@ -59,7 +59,7 @@ section {
 }
 
 .nav-links > li {
-  padding: 0 .75em;
+  padding: 0 30px;
 }
 
 .nav-links > li:hover {
@@ -80,10 +80,10 @@ section {
 
 .nav-button {
   display: none;
-  width: 79px;
+  width: 80px;
   height: 38px;
   font-size: 12px;
-  padding: 13px;
+  padding: 12px;
   text-transform: uppercase;
   color: #111;
   border: 0;
@@ -110,7 +110,7 @@ section {
 .nav-list > li {
   font-size: 90%;
   font-weight: 400;
-  padding: .75em 0;
+  padding: 30px 0;
   letter-spacing: 1px;
   color: ivory;
   font-family: 'Montserrat', sans-serif;
@@ -126,7 +126,7 @@ section {
 }
 
 .welcome {
-  color: ivory;
+  color: white;
   text-align: center;
   margin: 0 auto 25px;
   font-size: 40px;
@@ -134,7 +134,7 @@ section {
 }
 
 .meet {
-  color: ivory;
+  color: white;
   text-align: center;
   margin: 0 auto 50px;
   font-size: 75px;
@@ -144,7 +144,7 @@ section {
 }
 
 .contact {
-  color: ivory;
+  color: white;
   text-align: center;
   margin: auto;
   text-transform: uppercase;
@@ -209,7 +209,7 @@ section {
   }
 
   header {
-    height: 63vh;
+    height: 62vh;
   }
 
   .header-container {
